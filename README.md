@@ -41,7 +41,6 @@ Using **Python and Data Science techniques**, this project explores how demograp
   - NumPy
   - Matplotlib
   - Seaborn
-  - Scikit-learn (optional ML)
 - **Environment:** Jupyter Notebook
 
 ---

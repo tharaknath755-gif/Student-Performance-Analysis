@@ -74,15 +74,6 @@ Using **Python and Data Science techniques**, this project explores how demograp
 
 ---
 
-## 🤖 Machine Learning (Optional)
-- A **Linear Regression model** was used to predict the average score based on:
-  - Gender
-  - Lunch type
-  - Test preparation
-- The model demonstrated a reasonable prediction accuracy for a beginner-level project.
-
----
-
 ## 📁 Project Structure
 
 Student-Performance-Analysis/

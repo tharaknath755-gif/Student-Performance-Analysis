@@ -52,7 +52,6 @@ Using **Python and Data Science techniques**, this project explores how demograp
 4. Exploratory Data Analysis (EDA)  
 5. Data Visualization  
 6. Insights and Conclusions  
-7. (Optional) Simple Machine Learning Model  
 
 ---
 

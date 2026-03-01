@@ -101,7 +101,7 @@ Student-Performance-Analysis/
 ---
 
 ## 📌 Conclusion
-This project demonstrates the application of **Data Science concepts** such as data analysis, visualization, and basic machine learning to solve a real-world educational problem. It helped in developing strong foundational skills in Python and data analysis.
+This project demonstrates the application of **Data Science concepts** such as data analysis, and visualization to solve a real-world educational problem. It helped in developing strong foundational skills in Python and data analysis.
 
 ---
 
